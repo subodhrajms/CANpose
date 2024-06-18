@@ -2,7 +2,7 @@
 
 ## Overview
 
-Imploementation of my work titled "A Cross-Attention Convolution Network for Human Pose Recognition", which is currently under review.
+Implementation of my work titled "CANpose: A Cross-Attention Convolution Network for Human Pose Recognition", which is currently under review at a major venue.
 
 ![An overview of the proposed model](/block_diagram.png)
 
