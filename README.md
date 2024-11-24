@@ -2,7 +2,7 @@
 
 ## Overview
 
-Implementation of my work titled "Integrating Depth Cues: A Cross-Attention Framework for Human Pose Recognition", which is currently under review at a major venue. An overview of the proposed **C**ross-**A**tention convolution **N**etwork for human **pose** recognition (**CANpose**) is given below. 
+Implementation of my work titled "Integrating Depth Cues: A Cross-Attention Framework for Human Pose Recognition", which is currently under review at a major venue. The proposed model leverages the combined benefits of cross-attention and convolution to achieve human pose recognition from depth-maps. An overview of the proposed **C**ross-**A**tention convolution **N**etwork for human **pose** recognition (**CANpose**) is given below. 
 
 ![An overview of the proposed model](/block_diagram.png)
 
